@@ -1,4 +1,6 @@
 # Fundamentals-of-AI-and-ML-Evaluated-Course-Project
+ Reg no. : 25BCE10064
+ Name : Pratham Srivasatava
 
 
 # 🚦 Smart Traffic Signal System (Python)
