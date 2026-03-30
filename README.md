@@ -1,5 +1,5 @@
 # Fundamentals-of-AI-and-ML-Evaluated-Course-Project
- Reg no. : 25BCE10064
+ Reg no. : 25BCE10064 ,
  Name : Pratham Srivasatava
 
 
