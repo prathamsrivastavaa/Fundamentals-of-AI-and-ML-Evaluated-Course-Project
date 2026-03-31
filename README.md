@@ -3,9 +3,9 @@
  Name : Pratham Srivasatava
 
 
-# 🚦 Smart Traffic Signal System (Python)
+#  Smart Traffic Signal System 
 
-## 📌 About the Project
+##  About the Project
 
 This project is a simple simulation of a smart traffic signal system build using Python.
 Instead of using fixed timers like traditional signals, this system adjust the green signal time based on the number of vehicles on each road.
@@ -14,7 +14,7 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 ---------------
 
-## 💡 What It Does
+##  What It Does
 
 * Takes input for number of vehicles on 4 roads
 * Decides which road should get the green signal first
@@ -26,7 +26,7 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 --------------
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * CSV file handling
@@ -34,7 +34,7 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 --------------
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure Python is installed
 2. Download or clone this repository
@@ -47,7 +47,7 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 ----------------
 
-## 📊 Output
+##  Output
 
 * Displays signal changes in real-time in the terminal
 * Saves data in `traffic_data.csv`
@@ -56,14 +56,14 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 ----------------
 
-## 📁 Files Included
+##  Files Included
 
 * `main.py` → main program
 * `traffic_data.csv` → automatically created when you run the program
 
 ----------------
 
-## 📚 What I Learned
+##  What I Learned
 
 * How to solve a real-world problem using programming
 * How to design logic based on conditions
@@ -72,7 +72,7 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 ---------------
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add a graphical interface (GUI)
 * Use real-time traffic data
@@ -80,6 +80,6 @@ It also gives priority to emergency vehicles and stores traffic data for analysi
 
 ---------------
 
-## 🧠 Note
+##  Note
 
 The data file (`traffic_data.csv`) is automatically created and updated when the program runs.
